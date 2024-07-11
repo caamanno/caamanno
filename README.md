@@ -38,12 +38,12 @@
 
 ## Connect with me:
 
-* **LinkedIn:** ![https://www.linkedin.com/in/caamanno](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=green)
-* **Blog:** ![https://medium.com/@caamanno](https://img.shields.io/badge/Social-Blog-informational?style=flat&logo=medium&logoColor=white&color=green)
-* **Website:** ![https://caamanno.com](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=website&logoColor=white&color=green)
-* **YouTube:** ![https://www.youtube.com/@caamanno](https://img.shields.io/badge/Social-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=green)
-* **Podcast:** ![https://open.spotify.com/show/1OrK3idk2ORLzRkn5eqcSK](https://img.shields.io/badge/Social-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=green)
-* **Contact:** ![https://docs.google.com/forms/d/1UUVt9ixYPDxLfGg2x0ql6Xs0p3U2KJNhBJ3ECViy6Zw/viewform](https://img.shields.io/badge/Social-Email-informational?style=flat&logo=email&logoColor=white&color=green)
+* **[LinkedIn](https://www.linkedin.com/in/caamanno)**
+* **[Blog](https://medium.com/@caamanno)**
+* **[Website](https://caamanno.com)**
+* **[YouTube](https://www.youtube.com/@caamanno)**
+* **[Podcast](https://open.spotify.com/show/1OrK3idk2ORLzRkn5eqcSK)**
+* **[Contact](https://docs.google.com/forms/d/1UUVt9ixYPDxLfGg2x0ql6Xs0p3U2KJNhBJ3ECViy6Zw/viewform)**
 
 
 
