@@ -2,9 +2,11 @@
 
 [![Header](https://raw.githubusercontent.com/caamanno/caamanno/master/logo.png "Header")](https://caamanno.com/)
 
+
 # Hey guys! <img src="https://raw.githubusercontent.com/caamanno/caamanno/master/hi.gif" width="30px">
 
 **I'm a skilled problem-solver with a passion for crafting innovative software solutions using cutting-edge technologies.** My diverse skillset bridges the gap between IT and business needs, helping companies achieve their goals. 
+
 
 ## Expertise:
 
@@ -27,20 +29,21 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Interest-Machine_Learning-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Interest-Artificial_Intelligence-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Interest-Machine_Learning-informational?style=flat&logo=code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Interest-Artificial_Intelligence-informational?style=flat&logo=brain&logoColor=white&color=blue)
+
 
 
 ## Connect with me:
 
-* **LinkedIn:** [https://www.linkedin.com/in/caamanno] (https://www.linkedin.com/in/caamanno)
-* **Blog:** [https://medium.com/@caamanno] (https://medium.com/@caamanno)
-* **Website:** [https://caamanno.com] (https://caamanno.com)
-* **YouTube:** [https://www.youtube.com/@caamanno] (https://www.youtube.com/@caamanno)
-* **Podcast:** [https://open.spotify.com/show/1OrK3idk2ORLzRkn5eqcSK] (https://open.spotify.com/show/1OrK3idk2ORLzRkn5eqcSK)
-* **Contact:** [https://docs.google.com/forms/d/1UUVt9ixYPDxLfGg2x0ql6Xs0p3U2KJNhBJ3ECViy6Zw/viewform] (https://docs.google.com/forms/d/1UUVt9ixYPDxLfGg2x0ql6Xs0p3U2KJNhBJ3ECViy6Zw/viewform)
+* **LinkedIn:** ![https://www.linkedin.com/in/caamanno](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=green)
+* **Blog:** ![https://medium.com/@caamanno](https://img.shields.io/badge/Social-Blog-informational?style=flat&logo=medium&logoColor=white&color=green)
+* **Website:** ![https://caamanno.com](https://img.shields.io/badge/Social-Website-informational?style=flat&logo=website&logoColor=white&color=green)
+* **YouTube:** ![https://www.youtube.com/@caamanno](https://img.shields.io/badge/Social-Youtube-informational?style=flat&logo=youtube&logoColor=white&color=green)
+* **Podcast:** ![https://open.spotify.com/show/1OrK3idk2ORLzRkn5eqcSK](https://img.shields.io/badge/Social-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=green)
+* **Contact:** ![https://docs.google.com/forms/d/1UUVt9ixYPDxLfGg2x0ql6Xs0p3U2KJNhBJ3ECViy6Zw/viewform](https://img.shields.io/badge/Social-Email-informational?style=flat&logo=email&logoColor=white&color=green)
 
 
 
